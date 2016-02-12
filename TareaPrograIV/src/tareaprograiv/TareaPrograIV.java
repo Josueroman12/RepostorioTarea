@@ -17,7 +17,8 @@ package tareaprograiv;
 public class TareaPrograIV {
 
     public static void main(String[] args) {
-        
+        VentanaAplicacion v = new VentanaAplicacion();
+        v.iniciar();
     }
     
 }
