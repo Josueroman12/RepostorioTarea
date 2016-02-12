@@ -50,7 +50,7 @@ public class VentanaAplicacion extends JFrame {
   
     public void agregarComponentes(Container c){
        panel = new JPanel();
-       panel.add(etqHola = new JLabel("HOLA MUNDO"));
+       panel.add(etqHola = new JLabel("PRIMERA TAREA DE PROGRAMACION IV"));
        c.add(panel);
     }
   
